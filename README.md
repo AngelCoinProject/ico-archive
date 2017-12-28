@@ -1,6 +1,6 @@
 # ico-contracts
 
-Ethereum smart contracts that have been used during successful ICOs. Curated by [Blockstarter](http://blockstarter.co)
+Ethereum smart contracts that have been used during successful ICOs.
 
 ## Bancor
 
@@ -136,3 +136,7 @@ https://medium.com/zeppelin-blog/basic-attention-token-bat-audit-88bf196df64b
 https://medium.com/zeppelin-blog/blockchain-capital-token-audit-68e882d14f0
 
 https://medium.com/zeppelin-blog/onward-with-ethereum-smart-contract-security-97a827e47702
+
+## Credits
+
+Originally curated by [Blockstarter](http://blockstarter.co)
