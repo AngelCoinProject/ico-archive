@@ -2,6 +2,16 @@
 
 Ethereum smart contracts that have been used during successful ICOs.
 
+# Clone This Project
+We are using git submodules. Please use following command to clone the repo.
+```
+git clone --recurse-submodules https://github.com/AngelCoinProject/ico-archive.git
+```
+
+## BitDegree Token Crowdsale
+
+Original GitHub repo: https://github.com/bitdegree/bitdegree-token-crowdsale.git
+
 ## Bancor
 
 Original GitHub repo: https://github.com/bancorprotocol/contracts
@@ -19,7 +29,7 @@ Deployed contract: https://etherscan.io/address/0xec33fB8D7c781F6FeaF2Dd46D521D4
 **Rules:**
 
 Contributors in BTC and ETH will be eligible for RLC tokens, the native tokens for the iEx.ec cloud network
- 
+
 * 1 BTC = 5000 RLC
 * 1ETH = 205 RLC (Price will be updated at the moment of the crowdsale according to the ETHBTC rate)
 * Minimum objective amount: 2,000 BTC
@@ -101,7 +111,7 @@ https://github.com/ConsenSys/singulardtv-contracts
 
 ### Framework by Open Zeppelin
 
-OpenZeppelin, a framework to build secure smart contracts on Ethereum 
+OpenZeppelin, a framework to build secure smart contracts on Ethereum
 
 https://github.com/OpenZeppelin/zeppelin-solidity
 
